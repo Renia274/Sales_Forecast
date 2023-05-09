@@ -58,7 +58,7 @@ Instructions for Running the Project
 
 To run this project, follow these steps:
 
-    Download the dataset from Kaggle and place it in the data/ directory.
+    Download the dataset from Kaggle(https://www.kaggle.com/c/demand-forecasting-kernels-only/data) and place it in the data/ directory.
     Run the sales_forecast.py script using the command python sales_forecast.py
 
 Note: Depending on your system configuration and environment, you might need to use python3 instead of python.
