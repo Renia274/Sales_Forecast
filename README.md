@@ -1,6 +1,7 @@
 # Sales_Forecast
 Sales Forecast is a project that aims to predict the sales of a retail store for the next month. The project is based on a dataset of historical sales data for the store, and uses machine learning algorithms to make predictions.
 Table of Contents
+    
     Dataset
     Data Preprocessing
     Feature Engineering
